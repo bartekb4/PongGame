@@ -1,0 +1,5 @@
+You have to have python3 and pygame installed
+Then you can just click on pong.py file and the game will run
+In file Configure.cfg you can pass your own configuration specifics to run the game
+	Computer=1-playing with computer
+	Computer=0-game for two
